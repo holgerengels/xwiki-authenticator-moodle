@@ -1,0 +1,1 @@
+de.zsl_bw.xwiki.authenticator_moodle.MoodleAuthService
